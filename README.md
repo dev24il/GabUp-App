@@ -1,4 +1,4 @@
-# GabUp-App
+# ChatBridge
 The Chatting Application is a user-friendly and versatile messaging platform that allows users to communicate in real-time. It provides a seamless chatting experience, enabling users to send messages and engage in group conversations. This README.md file serves as a guide to understanding the application and its functionalities.
 
 
@@ -25,7 +25,7 @@ The Chatting Application is a user-friendly and versatile messaging platform tha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/GabUp-App.git
+   git clone https://github.com/your-username/ChatBridge.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,7 +39,7 @@ The Chatting Application is a user-friendly and versatile messaging platform tha
    ```bash
    nodemon server.js
    ```
-5. Open your web browser and visit http://localhost:3000 to access the GabUp-app.
+5. Open your web browser and visit http://localhost:3000 to access the ChatBridge.
 
 
 # Technologies Used
